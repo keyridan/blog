@@ -1,6 +1,8 @@
+---
 layout: page
 title: "SQL Story of unbroken chains of events (daily/weekly streaks)"
 permalink: /sql/
+---
 
 Recently I decided to write my own habit tracker. 
 I'm planning to have 2 kinds of habits: everyday habits and every-week habits. Plus in order to accomplish some of them you must check them several times per period. To track it and prevent me from quitting my new habits we'll calculate unbroken chains of events in 3 parts:

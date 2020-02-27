@@ -1,6 +1,9 @@
 ---
 layout: page
 title: "SQL Story of unbroken chains of events (daily/weekly streaks)"
+published: true
+tags: sql,postgres,tutorial
+canonical_url: https://dev.to/keyridan/sql-story-of-unbroken-chains-of-events-streaks-3lh3
 permalink: /sql/
 ---
 
